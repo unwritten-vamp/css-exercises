@@ -1,0 +1,19 @@
+#empty {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#green {
+    font-weight: bold;
+    background-color: #afe526;
+    font-size: 24px;
+}
+
+.pink {
+    background-color: #ef89d0;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
